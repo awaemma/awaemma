@@ -7,13 +7,8 @@ I'm a Data Engineer, Business Intelligence analyst, and a Microsoft Certified tr
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm studying at AltSchool Africa [School of Data](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 💡 Fun fact: I'm studying at AltSchool Africa [School of Data](https://data.altschoolafrica.com/) Class of 2023.
 - 🌱 I’m continuously learning new technologies.
 - 😊 I’m looking for help with remote jobs that would allow me to express my proficiency in the use of data.
 - 💼 Job interests: Data Engineer, Business Intelligence Analyst  or Data Analyst.
 - 📫 You can [My_CV](https://drive.google.com/file/d/18ZRGnbN0CaxEtWOIPcZ3C6fnKneS1Tz9/view?usp=drive_link) and contact me by emailing awaemmanuel.eia@gmail.com.
-
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
-| ------------- | ------------- |
