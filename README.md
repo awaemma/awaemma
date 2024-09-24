@@ -4,13 +4,12 @@
 
 
 
-I'm a Data Engineer, Business Intelligence analyst, and a Microsoft Certified trainer who currently works as a Senior Business Intelligence Analyst at Sterling Bank, Nigeria. I leverage data to solve complex business problems, drive tangible solutions, enhance decision-making, and optimize operations. My dedication, proficiency, and collaborative spirit position me as a pivotal contributor to any organization.
+I'm a Data Engineer, Business Intelligence analyst, and a Microsoft Certified trainer who currently works as a Senior Business Intelligence Developer at Sterling Bank, Nigeria. I leverage data to solve complex business problems, drive tangible solutions, enhance decision-making, and optimize operations. My dedication, proficiency, and collaborative spirit position me as a pivotal contributor to any organization.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm studying at AltSchool Africa [School of Data](https://data.altschoolafrica.com/) Class of 2023.
 - 🌱 I’m continuously learning new technologies.
 - 😊 I’m looking for help with remote jobs that would allow me to express my proficiency in the use of data.
-- 💼 Job interests: Data Engineer, Business Intelligence Analyst  or Data Analyst.
+- 💼 Job interests: Data Engineering, Business Intelligence Analyst  or Data Analyst.
 - 📫 You can [My_CV](https://drive.google.com/file/d/18ZRGnbN0CaxEtWOIPcZ3C6fnKneS1Tz9/view?usp=drive_link) and contact me by emailing awaemmanuel.eia@gmail.com.
